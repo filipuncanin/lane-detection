@@ -319,7 +319,7 @@ def measure_curvature_and_position(binary_warped, left_fit, right_fit):
 
 ## Video
 
-https://github.com/user-attachments/assets/3585bfd5-5ebb-424a-9233-065afd0974c7
+https://github.com/user-attachments/assets/f71947ed-fdc2-45b8-9b1d-85f42fe3915e
 
 ## Discussion
 
